@@ -1,0 +1,10 @@
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\bin\Debug\Imageninador.exe.config
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\bin\Debug\Imageninador.exe
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\bin\Debug\Imageninador.pdb
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.csprojAssemblyReference.cache
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.Form1.resources
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.Properties.Resources.resources
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.csproj.GenerateResource.cache
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.csproj.CoreCompileInputs.cache
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.exe
+C:\Users\User\Videos\4K Video Downloader\Imageninador\Imageninador\Imageninador\obj\Debug\Imageninador.pdb
