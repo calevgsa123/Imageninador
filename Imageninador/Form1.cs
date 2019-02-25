@@ -178,6 +178,7 @@ namespace Imageninador
                 {
                     //Borar Datos de imagenes
                     navImagenesPanel.Controls.Add(clonarLabelVacio());
+                    visorPictureBox.ImageLocation = Application.StartupPath + "\\archivos\\Splash.png";
                 }
             }
         }
@@ -227,6 +228,7 @@ namespace Imageninador
             if(navImagenesPanel.Controls.Count == 0)
             {
                 navImagenesPanel.Controls.Add(clonarLabelVacio());
+                visorPictureBox.ImageLocation = Application.StartupPath + "\\archivos\\Splash.png";
             }
         }
 
@@ -304,6 +306,7 @@ namespace Imageninador
                 {
                     //Borar Datos de imagenes
                     navImagenesPanel.Controls.Add(clonarLabelVacio());
+                    visorPictureBox.ImageLocation= Application.StartupPath + "\\archivos\\Splash.png";
                 }
             }
         }
